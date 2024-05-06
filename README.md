@@ -1,16 +1,15 @@
-<h1 align="center">Hi there, I'm Vedant Yetekar</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center"><em>Hi there, I'm Vedant Yetekar</em></h3>
+<h4 align="center"><em>Software Engineer</em></h4>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantyetekar&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **Product Design**
-- 👨‍💻 All of my projects are available [here](https://www.vedantyetekar.com/projects)
-- 💬 Ask me about **Javascript** & **CSS**
-- 📫 How to reach me **yetekar.vedant@gmail.com**
+<p>🌱 <em>I'm working with a browser extension these days</em></p>
+<p>💬 <em>You can ask me about JavaScript</em></p>
+<p>📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
 
-### 🛠 &nbsp;Languages and Tools
+#### 🛠 ****&nbsp;Tech stack****
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -36,14 +35,14 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ ****&nbsp;GitHub analytics****
 ![vedantyetekar's Stats](https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![vedantyetekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true)
 
-### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 ****&nbsp;Let's connect****
 <p>
-<a href="[https://www.vivek9patel.com](https://leetcode.com/u/ved9/)"><img src="[https://img.shields.io/badge/-ved9-282828?style=for-the-badge&logo=leetcode&logoColor=eff2f699](https://img.shields.io/badge/-ved9-282828?style=for-the-badge&logo=leetcode)"/></a>
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yetekar.vedant@gmail.com"><img src="https://img.shields.io/badge/-yetekar.vedant@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ved9"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
 </p>
