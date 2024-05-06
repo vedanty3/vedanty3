@@ -36,9 +36,9 @@
 <br/>
 
 #### ⚙️ ****&nbsp;GitHub Analytics****
-<div style="display: flex; gap:10px; align-items: center; justify-content:space-evenly;">
-	<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
-	<img style="height:150px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true"/>
+<div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
+	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true"/>
 </div>
 
 #### 🤝🏻 ****&nbsp;Let's Connect****
