@@ -36,8 +36,10 @@
 <br/>
 
 #### ⚙️ ****&nbsp;GitHub analytics****
-![vedantyetekar's Stats](https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![vedantyetekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true)
+<div style="display: flex; align-items: center; justify-content:space-evenly;">
+	<img width="400px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+	<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true&width=100"/>
+</div>
 
 #### 🤝🏻 ****&nbsp;Let's connect****
 <p>
