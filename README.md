@@ -38,13 +38,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![vedantyetekar's Stats](https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![vedantyetekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true)
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="[https://www.vivek9patel.com](https://leetcode.com/u/ved9/)"><img src="[https://img.shields.io/badge/-ved9-282828?style=for-the-badge&logo=leetcode&logoColor=eff2f699](https://img.shields.io/badge/-ved9-282828?style=for-the-badge&logo=leetcode)"/></a>
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yetekar.vedant@gmail.com"><img src="https://img.shields.io/badge/-yetekar.vedant@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
