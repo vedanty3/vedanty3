@@ -10,36 +10,34 @@
 <p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
 
 #### 🛠 ****&nbsp;Tech Stack****
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-typescript-F3F0E8?style=for-the-badge&logo=typescript&logoColor=#7CB9E8)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-graphql-f7f5ef?style=for-the-badge&logo=graphql&logoColor=FF69B4)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Prisma](https://img.shields.io/badge/-prisma-f7f5ef?style=for-the-badge&logo=prisma&logoColor=000042)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<br>
+![Next.js](https://img.shields.io/badge/-next-302F2C?style=for-the-badge&logo=next.js&logoColor=#7CB9E8)
 ![React](https://img.shields.io/badge/-react-F0F8FF?style=for-the-badge&logo=react&logoColor=#7CB9E8)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-graphql-f7f5ef?style=for-the-badge&logo=graphql&logoColor=FF69B4)
+![Prisma](https://img.shields.io/badge/-prisma-f7f5ef?style=for-the-badge&logo=prisma&logoColor=000042)
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-F8F7F2?style=for-the-badge&logo=mysql&logoColor=#7CB9E8)
+![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-F9F6EE?style=for-the-badge&logo=docker&logoColor=0000FF)
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-
-<br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
 #### 💹 ****&nbsp;GitHub Analytics****
 <div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
-	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
-	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=gotham&hide_border=true"/>
+	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
+	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 #### 🤝🏻 ****&nbsp;Let's Connect****
