@@ -10,25 +10,25 @@
 <p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
 
 #### 🛠 ****&nbsp;Tech Stack****
-![TypeScript](https://img.shields.io/badge/-typescript-F3F0E8?style=for-the-badge&logo=typescript&logoColor=#7CB9E8)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F3F0E8?style=flat&logo=typescript&logoColor=#7CB9E8)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <br>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br>
-![Next.js](https://img.shields.io/badge/-next-302F2C?style=for-the-badge&logo=next.js&logoColor=#7CB9E8)
-![React](https://img.shields.io/badge/-react-F0F8FF?style=for-the-badge&logo=react&logoColor=#7CB9E8)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/-graphql-f7f5ef?style=for-the-badge&logo=graphql&logoColor=FF69B4)
-![Prisma](https://img.shields.io/badge/-prisma-f7f5ef?style=for-the-badge&logo=prisma&logoColor=000042)
+![Next.js](https://img.shields.io/badge/-Next.js-302F2C?style=flat&logo=next.js&logoColor=#7CB9E8)
+![React](https://img.shields.io/badge/-React.js-F0F8FF?style=flat&logo=react&logoColor=#7CB9E8)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-f7f5ef?style=flat&logo=graphql&logoColor=FF69B4)
+![Prisma](https://img.shields.io/badge/-Prisma-f7f5ef?style=flat&logo=prisma&logoColor=000042)
 <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-F8F7F2?style=for-the-badge&logo=mysql&logoColor=#7CB9E8)
-![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-docker-F9F6EE?style=for-the-badge&logo=docker&logoColor=0000FF)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-F8F7F2?style=flat&logo=mysql&logoColor=#7CB9E8)
+![AWS](https://img.shields.io/badge/AWS-232F32?style=flat&logo=AmazonAWS&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-F9F6EE?style=flat&logo=docker&logoColor=0000FF)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 <br/>
 
 #### 💹 ****&nbsp;GitHub Analytics****
