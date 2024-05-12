@@ -9,7 +9,7 @@
 <p style="font-size:8px;">💬 <em>You can ask me about JavaScript</em></p>
 <p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
 
-#### 🛠 ****&nbsp;Tech Stack****
+#### 🛠 ***&nbsp;Tech stack***
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F3F0E8?style=flat&logo=typescript&logoColor=#7CB9E8)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <br>
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br>
 ![Next.js](https://img.shields.io/badge/-Next.js-302F2C?style=flat&logo=next.js&logoColor=#7CB9E8)
-![React](https://img.shields.io/badge/-React.js-F0F8FF?style=flat&logo=react&logoColor=#7CB9E8)
+![React](https://img.shields.io/badge/-React.js-F0F8FF?style=flat&logo=react&logoColor=007FFF)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-f7f5ef?style=flat&logo=graphql&logoColor=FF69B4)
 ![Prisma](https://img.shields.io/badge/-Prisma-f7f5ef?style=flat&logo=prisma&logoColor=000042)
@@ -31,13 +31,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 <br/>
 
-#### 💹 ****&nbsp;GitHub Analytics****
+#### 💹 ***&nbsp;GitHub analytics***
 <div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
 	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
 	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
-#### 🤝🏻 ****&nbsp;Let's Connect****
+#### 🤝🏻 ***&nbsp;Let's connect***
 <p>
 <a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
