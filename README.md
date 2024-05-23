@@ -10,8 +10,8 @@
 <p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
 
 #### 🛠 ***&nbsp;Tech stack***
-![TypeScript](https://img.shields.io/badge/-TypeScript-F3F0E8?style=flat&logo=typescript&logoColor=#7CB9E8)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F3F0E8?style=flat&logo=typescript&logoColor=#7CB9E8)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
