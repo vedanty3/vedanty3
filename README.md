@@ -1,6 +1,6 @@
 <h2 align="center"><em>Hi there, I'm Vedant Yetekar</em></h2>
 <h3 align="center"><em>Software Engineer</em></h3>
-	
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantyetekar&color=blueviolet&style=flat">
 </p>
