@@ -1,5 +1,5 @@
-<h3 align="center"><em>Hi there, I'm Vedant Yetekar</em></h3>
-<h4 align="center"><em>Software Engineer</em></h4>
+<h2 align="center"><em>Hi there, I'm Vedant Yetekar</em></h2>
+<h3 align="center"><em>Software Engineer</em></h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantyetekar&color=blueviolet&style=flat">
@@ -43,4 +43,5 @@
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yetekar.vedant@gmail.com"><img src="https://img.shields.io/badge/-yetekar.vedant@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ved9"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
+<a href="https://www.geeksforgeeks.org/user/vedantyetekar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/-vedantyetekar-white?style=flat&logo=geeksforgeeks&logoColor=eff2f699"/></a>
 </p>
