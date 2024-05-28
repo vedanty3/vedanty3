@@ -40,6 +40,7 @@
 #### 🤝🏻 ***&nbsp;Let's connect***
 <p>
 <a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
+<a href="https://www.instagram.com/vedantyetekar/"><img src="https://img.shields.io/badge/-@vedantyetekar-ffffff?style=flat&logo=instagram"/></a>
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yetekar.vedant@gmail.com"><img src="https://img.shields.io/badge/-yetekar.vedant@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ved9"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
