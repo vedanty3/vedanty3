@@ -7,7 +7,7 @@
 
 <p style="font-size:8px;">🌱 <em>I'm working with a browser extension these days</em></p>
 <p style="font-size:8px;">💬 <em>You can ask me about JavaScript</em></p>
-<p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:yetekar.vedant@gmail.com">yetekar.vedant@gmail.com</a></strong></em></p>
+<p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:uuvedant4@gmail.com">uuvedant4@gmail.com</a></strong></em></p>
 
 #### 🛠 ***&nbsp;Tech stack***
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -42,7 +42,7 @@
 <a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
 <a href="https://www.instagram.com/vedantyetekar/"><img src="https://img.shields.io/badge/-@vedantyetekar-ffffff?style=flat&logo=instagram"/></a>
 <a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yetekar.vedant@gmail.com"><img src="https://img.shields.io/badge/-yetekar.vedant@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:uuvedant4@gmail.com"><img src="https://img.shields.io/badge/-uuvedant4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ved9"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
 <a href="https://www.geeksforgeeks.org/user/vedantyetekar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/-vedantyetekar-white?style=flat&logo=geeksforgeeks&logoColor=eff2f699"/></a>
 </p>
