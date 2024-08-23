@@ -7,7 +7,7 @@
 
 <p style="font-size:8px;">🌱 <em>I'm working with a browser extension these days</em></p>
 <p style="font-size:8px;">💬 <em>You can ask me about JavaScript</em></p>
-<p style="font-size:8px;">📮 <em>You can shoot me at <strong><a href="mailto:uuvedant4@gmail.com">uuvedant4@gmail.com</a></strong></em></p>
+<p style="font-size:8px;">📮 <em>You can write me at <strong><a href="mailto:vedantyetekar1@gmail.com">vedantyetekar1@gmail.com</a></strong></em></p>
 
 #### 🛠 ***&nbsp;Tech stack***
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
