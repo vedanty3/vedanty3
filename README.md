@@ -39,7 +39,7 @@
 
 #### 🤝🏻 ***&nbsp;Let's connect***
 <p>
-<a href="https://twitter.com/vedaanty3"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
+<a href="https://twitter.com/vedaanty3"><img src="https://img.shields.io/badge/-@vedaanty3-000000?style=flat&logo=x"/></a>
 <a href="https://www.instagram.com/vedanty3/"><img src="https://img.shields.io/badge/-@vedanty3-ffffff?style=flat&logo=instagram"/></a>
 <a href="https://linkedin.com/in/vedanty3"><img src="https://img.shields.io/badge/-vedanty3-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vedantyetekar3@gmail.com"><img src="https://img.shields.io/badge/-vedantyetekar3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
