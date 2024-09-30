@@ -2,12 +2,12 @@
 <h3 align="center"><em>Software Engineer</em></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantyetekar&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=vedanty3&color=blueviolet&style=flat">
 </p>
 
 <p style="font-size:8px;">🌱 <em>I'm working with a browser extension these days</em></p>
 <p style="font-size:8px;">💬 <em>You can ask me about JavaScript</em></p>
-<p style="font-size:8px;">📮 <em>You can write me at <strong><a href="mailto:vedantyetekar1@gmail.com">vedantyetekar1@gmail.com</a></strong></em></p>
+<p style="font-size:8px;">📮 <em>You can write me at <strong><a href="mailto:vedantyetekar3@gmail.com">vedantyetekar3@gmail.com</a></strong></em></p>
 
 #### 🛠 ***&nbsp;Tech stack***
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -33,16 +33,16 @@
 
 #### 💹 ***&nbsp;GitHub analytics***
 <div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
-	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
-	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=chartreuse-dark&hide_border=true"/>
+	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedanty3&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
+	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanty3&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 #### 🤝🏻 ***&nbsp;Let's connect***
 <p>
-<a href="https://twitter.com/__vedant4"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
-<a href="https://www.instagram.com/vedantyetekar/"><img src="https://img.shields.io/badge/-@vedantyetekar-ffffff?style=flat&logo=instagram"/></a>
-<a href="https://linkedin.com/in/vedantyetekar"><img src="https://img.shields.io/badge/-vedantyetekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:uuvedant4@gmail.com"><img src="https://img.shields.io/badge/-uuvedant4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ved9"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
+<a href="https://twitter.com/vedaanty3"><img src="https://img.shields.io/badge/-@__vedant4-000000?style=flat&logo=x"/></a>
+<a href="https://www.instagram.com/vedanty3/"><img src="https://img.shields.io/badge/-@vedanty3-ffffff?style=flat&logo=instagram"/></a>
+<a href="https://linkedin.com/in/vedanty3"><img src="https://img.shields.io/badge/-vedanty3-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vedantyetekar3@gmail.com"><img src="https://img.shields.io/badge/-vedantyetekar3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vedanty3"><img src="https://img.shields.io/badge/-ved9-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
 <a href="https://www.geeksforgeeks.org/user/vedantyetekar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/-vedantyetekar-white?style=flat&logo=geeksforgeeks&logoColor=eff2f699"/></a>
 </p>
