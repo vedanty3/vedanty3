@@ -38,7 +38,7 @@
 #### 🤝🏻 ***&nbsp;Let's connect***
 <p>
 <a href="https://medium.com/@vedanty3"><img src="https://img.shields.io/badge/-vedaanty3-000000?style=flat&logo=medium"/></a>
-<a href="buymeacoffee.com/vedaanty3"><img src="https://img.shields.io/badge/-vedaanty3-000000?style=flat&logo=buymeacoffee"/></a>
+<a href="https://buymeacoffee.com/vedaanty3"><img src="https://img.shields.io/badge/-vedaanty3-000000?style=flat&logo=buymeacoffee"/></a>
 <a href="https://twitter.com/vedaanty3"><img src="https://img.shields.io/badge/-vedaanty3-000000?style=flat&logo=x"/></a>
 <a href="https://www.instagram.com/vedanty3/"><img src="https://img.shields.io/badge/-vedanty3-ffffff?style=flat&logo=instagram"/></a>
 </p>
