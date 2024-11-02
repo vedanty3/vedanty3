@@ -12,17 +12,15 @@
 #### 🛠 ***&nbsp;Tech stack***
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F3F0E8?style=flat&logo=typescript&logoColor=#7CB9E8)
-<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<br>
 ![Next.js](https://img.shields.io/badge/-Next.js-302F2C?style=flat&logo=next.js&logoColor=#7CB9E8)
 ![React](https://img.shields.io/badge/-React.js-F0F8FF?style=flat&logo=react&logoColor=007FFF)
+<br>
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-f7f5ef?style=flat&logo=graphql&logoColor=FF69B4)
 ![Prisma](https://img.shields.io/badge/-Prisma-f7f5ef?style=flat&logo=prisma&logoColor=000042)
-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F7F2?style=flat&logo=mysql&logoColor=#7CB9E8)
 ![AWS](https://img.shields.io/badge/AWS-232F32?style=flat&logo=AmazonAWS&logoColor=white)
