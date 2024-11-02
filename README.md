@@ -45,4 +45,6 @@
 <a href="mailto:vedantyetekar3@gmail.com"><img src="https://img.shields.io/badge/-vedantyetekar3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/vedanty3"><img src="https://img.shields.io/badge/-vedanty3-282828?style=flat&logo=leetcode&logoColor=eff2f699"/></a>
 <a href="https://www.geeksforgeeks.org/user/vedantyetekar/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/-vedantyetekar-white?style=flat&logo=geeksforgeeks&logoColor=eff2f699"/></a>
+<a href="https://medium.com/@vedanty3"><img src="https://img.shields.io/badge/-@vedaanty3-000000?style=flat&logo=medium"/></a>
+<a href="buymeacoffee.com/vedaanty3"><img src="https://img.shields.io/badge/-@vedaanty3-000000?style=flat&logo=buymeacoffee"/></a>
 </p>
