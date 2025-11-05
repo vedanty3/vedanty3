@@ -1,6 +1,6 @@
 hello 👋🏻
 
-software engineer · ai researcher
+software engineer · ai researcher  
 i build things that work and scale
 
 stack: java · js · ts · py · c++ · shell · yaml  
