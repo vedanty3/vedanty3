@@ -12,5 +12,4 @@ plm: 3dexperience · mql · jpo · tcl
 
 interests: software engineering · ai · reasearch · writing · reading
 
-connect:  
-[email](mailto:vedantyetekar3@gmail.com) · [linkedin](https://linkedin.com/in/vedanty3) · [twitter](https://x.com/vedaanty3) · [instagram](https://instagram.com/vedanty3)
+find me online → [email](mailto:vedantyetekar3@gmail.com) · [linkedin](https://linkedin.com/in/vedanty3) · [twitter](https://x.com/vedaanty3) · [instagram](https://instagram.com/vedanty3) · [medium](https://medium.com/@vedanty3)
