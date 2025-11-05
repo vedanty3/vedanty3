@@ -1,4 +1,4 @@
-hello 👋🏻
+hello there👋🏻
 
 software engineer · ai researcher  
 i build things that work and scale
